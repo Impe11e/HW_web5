@@ -40,3 +40,5 @@ if __name__ == '__main__':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
     asyncio.run(main(sys.argv[1], *sys.argv[2:]))
+
+# основне дз + 1 доп. пункт
